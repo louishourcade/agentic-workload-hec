@@ -1,0 +1,6 @@
+fastapi
+uv
+strands-agents
+uvicorn
+pydantic
+httpx
